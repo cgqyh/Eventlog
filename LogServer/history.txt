@@ -1,0 +1,2 @@
+1.0.0 1st release
+1.0.1 using custom event to update UI display in multi-threading. Using Queue to update UI to avoid conflict
